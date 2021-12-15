@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="cityText">City</string>
+    <string name="temperatureText">Temperature</string>
+    <string name="imageWear"></string>
+    <string name="dateText">Date</string>
+</resources>

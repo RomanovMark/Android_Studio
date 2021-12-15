@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contextClickable="false"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/citTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/citTextView" />
+
+        <TextView
+            android:id="@+id/condTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/condTextView" />
+
+        <TextView
+            android:id="@+id/tempTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tempTextView" />
+
+        <TextView
+            android:id="@+id/tiTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tiTextView"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/icoImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+</LinearLayout>

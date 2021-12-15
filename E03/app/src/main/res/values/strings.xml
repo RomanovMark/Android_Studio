@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Build a UI With Layout Editor1</string>
+    <string name="Left_Top">LeftTop</string>
+    <string name="Right_Top">RightTop</string>
+    <string name="Left_Bottom">LeftBottom</string>
+    <string name="Right_Bottom">RightBottom</string>
+    <string name="portrait_txt">Portrait orientation</string>
+    <string name="landscape_txt">Landscape orientation</string>
+</resources>
